@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "TXT",
+      "url": "https://ghproxy.com/https://github.com/RoboticsNotes/M3U/raw/main/zb.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
